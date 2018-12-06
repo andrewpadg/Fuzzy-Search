@@ -38,6 +38,15 @@ Enter query to search for or enter "q" to quit: query
 ```
 Program will return the file and sentence containing the closest string to the query.
 
+## Design
+
+Fuzzy search uses Levenshtein Distance (http://bit.ly/2AHHIvI) to find the distance between two strings.
+
+When searching for query, files take precedence over everything in results.
+
+Single word queries are compared to every word in every file, multi-word queries are compared to substrings
+of sentences.
+
 ## Authors
 
 * **Andrew Padgett**
