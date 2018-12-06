@@ -49,4 +49,4 @@ of sentences.
 
 ## Authors
 
-* **Andrew Padgett**
+* **Andrew Padgett** (https://github.com/andrewpadg/)
