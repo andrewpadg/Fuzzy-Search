@@ -1,10 +1,3 @@
-/*
- * Name: Andrew Padgett
- * Date Submitted: 11/30/18
- * Lab Section 04
- * Assignment Name: Lab 11
- */
-
 #include "search.h"
 #include "util.h"
 
