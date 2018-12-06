@@ -29,7 +29,7 @@ make
 Run program.
 
 ```
-./main.out
+make run
 ```
 Input string to search text files for.
 
