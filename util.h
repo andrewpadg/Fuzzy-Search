@@ -27,10 +27,10 @@ bool is_white_space(char value) {
 }
 
 void printOutput(pair<string, string> location) {
-  cout << location.first << endl;
-  if(location.second != "empty")
-    cout << location.second << endl;
-  cout << endl;
+	cout << location.first << endl;
+	if(location.second != "empty")
+		cout << location.second << endl;
+	cout << endl;
 }
 
 pair<string, string> setLocation(string fileName, string current) {
