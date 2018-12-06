@@ -36,7 +36,7 @@ Input string to search text files for.
 ```
 Enter query to search for or enter "q" to quit: query
 ```
-Program will return the sentence containing the closest string to the query.
+Program will return the file and sentence containing the closest string to the query.
 
 ## Authors
 
