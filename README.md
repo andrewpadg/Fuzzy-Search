@@ -40,7 +40,7 @@ Program will return the file and sentence containing the closest string to the q
 
 ## Design
 
-Fuzzy search uses Levenshtein Distance (http://bit.ly/2AHHIvI) to find the distance between two strings.
+Fuzzy search uses Levenshtein Distance [(Wikipedia)](http://bit.ly/2AHHIvI) to find the distance between two strings.
 
 When searching for query, files take precedence over everything in results.
 
