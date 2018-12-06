@@ -1,6 +1,6 @@
-# Project Title
+# Fuzzy Search
 
-One Paragraph of project description goes here
+Searches through text files in /content for user-inputted query
 
 ## Getting Started
 
