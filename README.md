@@ -49,4 +49,4 @@ of sentences.
 
 ## Authors
 
-* **Andrew Padgett** *Clemson University* (https://github.com/andrewpadg/)
+* **Andrew Padgett** - *Clemson University* (https://github.com/andrewpadg/)
