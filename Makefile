@@ -5,8 +5,8 @@ LFLAGS = -Wall $(DEBUG)
 
 compile: lab11.out
 
-lab11.out: lab11.cpp search.h util.h
-	$(CC) $(CFLAGS) -o lab11.out lab11.cpp
+lab11.out: main.cpp search.h util.h
+	$(CC) $(CFLAGS) -o lab11.out main.cpp
 
 run: lab11.out
 	./lab11.out
